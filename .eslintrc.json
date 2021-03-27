@@ -33,7 +33,8 @@
         "class-methods-use-this": "off",
         "react/no-unescaped-entities": "off",
         "react/sort-comp": "off",
-        "linebreak-style": "off"
+        "linebreak-style": "off",
+        "import/prefer-default-export": "off"
     }
   }
   
