@@ -12,7 +12,7 @@ class App extends React.Component {
     const currentPage = this.state.page;
     return (
       <div>
-        <h3>Ollo?!</h3>
+        <h3>Ollo?!!</h3>
         <h5>{`Current Page: ${currentPage}`}</h5>
       </div>
     );
